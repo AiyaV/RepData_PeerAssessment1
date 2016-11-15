@@ -1,7 +1,3 @@
----
-title: "PA1_template.Rmd"
-output: html_document
----
 
 Loading and preprocessing the data
 
